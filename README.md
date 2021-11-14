@@ -19,3 +19,4 @@ You can start this application by running the gui.py file just thats it.
 
 
 
+Link to download the dataset: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
